@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mono-alex.github.io/categories/</loc>
+    <loc>https://mono-alex.github.io/elf-farm/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mono-alex.github.io/tags/</loc>
+    <loc>https://mono-alex.github.io/elf-farm/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mono-alex.github.io/</loc>
+    <loc>https://mono-alex.github.io/elf-farm/</loc>
     <priority>0</priority>
   </url>
   
